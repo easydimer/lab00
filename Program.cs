@@ -1,5 +1,5 @@
 ﻿Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!");
+Console.WriteLine("completely different shit!");
 Console.WriteLine("Choose option:\n1 for leap year check\n2 for even/odd check\n3 for +10");
 
 int choice = int.Parse(Console.ReadLine());
